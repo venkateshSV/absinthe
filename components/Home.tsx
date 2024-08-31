@@ -73,7 +73,7 @@ export const HomeComponent = () => {
                 onChange={handleInputChange}
               />
               <div className="mt-2">
-                Don't have an API key?{" "}
+                Don not have an API key?{" "}
                 <span
                   className="text-blue-700"
                   onClick={async () => {
