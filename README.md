@@ -69,6 +69,10 @@ The Absinthe project follows Next.js conventions:
 - Routing: Next.js routing
 - API Integration: Custom backend API
 
+## Deployment
+
+Deployed on vercel `https://absinthe.vercel.app/`
+
 ## Contributing
 
 Contributions are welcome! Please submit pull requests with clear descriptions of changes.
